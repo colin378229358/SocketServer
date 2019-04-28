@@ -1,0 +1,6 @@
+E:\工作项目\Sweet\点甜机器人\SocketServer\ConsoleAppWeb\bin\Debug\ConsoleAppWeb.exe.config
+E:\工作项目\Sweet\点甜机器人\SocketServer\ConsoleAppWeb\bin\Debug\ConsoleAppWeb.exe
+E:\工作项目\Sweet\点甜机器人\SocketServer\ConsoleAppWeb\bin\Debug\ConsoleAppWeb.pdb
+E:\工作项目\Sweet\点甜机器人\SocketServer\ConsoleAppWeb\obj\Debug\ConsoleAppWeb.csprojResolveAssemblyReference.cache
+E:\工作项目\Sweet\点甜机器人\SocketServer\ConsoleAppWeb\obj\Debug\ConsoleAppWeb.exe
+E:\工作项目\Sweet\点甜机器人\SocketServer\ConsoleAppWeb\obj\Debug\ConsoleAppWeb.pdb

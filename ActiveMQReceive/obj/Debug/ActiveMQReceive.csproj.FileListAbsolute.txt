@@ -1,0 +1,8 @@
+E:\工作项目\Sweet\点甜机器人\SocketServer\ActiveMQReceive\bin\Debug\ActiveMQReceive.exe.config
+E:\工作项目\Sweet\点甜机器人\SocketServer\ActiveMQReceive\bin\Debug\ActiveMQReceive.exe
+E:\工作项目\Sweet\点甜机器人\SocketServer\ActiveMQReceive\bin\Debug\ActiveMQReceive.pdb
+E:\工作项目\Sweet\点甜机器人\SocketServer\ActiveMQReceive\obj\Debug\ActiveMQReceive.csprojResolveAssemblyReference.cache
+E:\工作项目\Sweet\点甜机器人\SocketServer\ActiveMQReceive\obj\Debug\ActiveMQReceive.Properties.Resources.resources
+E:\工作项目\Sweet\点甜机器人\SocketServer\ActiveMQReceive\obj\Debug\ActiveMQReceive.csproj.GenerateResource.Cache
+E:\工作项目\Sweet\点甜机器人\SocketServer\ActiveMQReceive\obj\Debug\ActiveMQReceive.exe
+E:\工作项目\Sweet\点甜机器人\SocketServer\ActiveMQReceive\obj\Debug\ActiveMQReceive.pdb

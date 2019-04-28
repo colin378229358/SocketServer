@@ -1,0 +1,7 @@
+E:\工作项目\Sweet\点甜机器人\SocketServer\RabbitMQSend\bin\Debug\RabbitMQSend.exe.config
+E:\工作项目\Sweet\点甜机器人\SocketServer\RabbitMQSend\bin\Debug\RabbitMQSend.exe
+E:\工作项目\Sweet\点甜机器人\SocketServer\RabbitMQSend\bin\Debug\RabbitMQSend.pdb
+E:\工作项目\Sweet\点甜机器人\SocketServer\RabbitMQSend\bin\Debug\RabbitMQ.Client.dll
+E:\工作项目\Sweet\点甜机器人\SocketServer\RabbitMQSend\obj\Debug\RabbitMQSend.csprojResolveAssemblyReference.cache
+E:\工作项目\Sweet\点甜机器人\SocketServer\RabbitMQSend\obj\Debug\RabbitMQSend.exe
+E:\工作项目\Sweet\点甜机器人\SocketServer\RabbitMQSend\obj\Debug\RabbitMQSend.pdb

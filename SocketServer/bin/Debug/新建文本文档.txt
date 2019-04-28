@@ -1,0 +1,1 @@
+<MQConfigSetting IP="localhost" RequestedHeartbeat="60" UserName="SweetTec" Password="dian123456"/>

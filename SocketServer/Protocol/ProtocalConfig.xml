@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<protocal-configuration >
+  
+  <conveyor subsystemId="conv_dy" active="true" target="server1" description="">
+    <MQConfigSetting IP="localhost" Port="3010" RequestedHeartbeat="60" UserName="sweet" Password="dian123456"/>
+    <Server IP="127.0.0.1" Port="2000"/>
+    <Message Owner="PLC" Protocol="${ID01:1;ID02:2;ID03:3;ID04:4;ID05:5;ID06:6;ID07:7;ID08:8;ID09:9;ID10:10}" />
+  </conveyor>
+
+  <Message OperationID="1" DeviceType="CON" ReplyId="" RequireUpload="1" Message="*AHEAD#"  Owner="PLC"          Description="机器人前进">
+
+  </Message>
+
+  <Message OperationID="2" DeviceType="CON" ReplyId="" RequireUpload="1" Message="*BACK#"  Owner="PLC"          Description="机器人后退">
+
+  </Message>
+
+  <Message OperationID="3" DeviceType="CON" ReplyId="" RequireUpload="1" Message="*LEFT#"  Owner="PLC"          Description="机器人向左">
+
+  </Message>
+
+  <Message OperationID="4" DeviceType="CON" ReplyId="" RequireUpload="1" Message="*RIGHT#"  Owner="PLC"          Description="机器人向右">
+
+  </Message>
+
+  <Message OperationID="5" DeviceType="CON" ReplyId="" RequireUpload="1" Message="*STOP#"  Owner="PLC"          Description="机器人停止">
+
+  </Message>
+
+  <Message OperationID="6" DeviceType="CON" ReplyId="" RequireUpload="1" Message="*UP#"  Owner="PLC"            Description="电动推杆向上">
+
+  </Message>
+
+  <Message OperationID="7" DeviceType="CON" ReplyId="" RequireUpload="1" Message="*DOWN#"  Owner="PLC"            Description="电动推杆向下">
+
+  </Message>
+
+ <Message OperationID="8" DeviceType="CON" ReplyId="" RequireUpload="1" Message="*STAY#"  Owner="PLC"            Description="电动推杆保持">
+
+  </Message>
+  
+</protocal-configuration>

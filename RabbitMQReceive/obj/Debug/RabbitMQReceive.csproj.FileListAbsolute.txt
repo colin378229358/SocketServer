@@ -1,0 +1,7 @@
+E:\工作项目\Sweet\点甜机器人\SocketServer\RabbitMQReceive\bin\Debug\RabbitMQReceive.exe.config
+E:\工作项目\Sweet\点甜机器人\SocketServer\RabbitMQReceive\bin\Debug\RabbitMQReceive.exe
+E:\工作项目\Sweet\点甜机器人\SocketServer\RabbitMQReceive\bin\Debug\RabbitMQReceive.pdb
+E:\工作项目\Sweet\点甜机器人\SocketServer\RabbitMQReceive\bin\Debug\RabbitMQ.Client.dll
+E:\工作项目\Sweet\点甜机器人\SocketServer\RabbitMQReceive\obj\Debug\RabbitMQReceive.csprojResolveAssemblyReference.cache
+E:\工作项目\Sweet\点甜机器人\SocketServer\RabbitMQReceive\obj\Debug\RabbitMQReceive.exe
+E:\工作项目\Sweet\点甜机器人\SocketServer\RabbitMQReceive\obj\Debug\RabbitMQReceive.pdb

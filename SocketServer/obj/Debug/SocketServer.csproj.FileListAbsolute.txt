@@ -1,0 +1,13 @@
+E:\工作项目\Sweet\点甜机器人\SocketServer\SocketServer\bin\Debug\SocketServer.exe
+E:\工作项目\Sweet\点甜机器人\SocketServer\SocketServer\bin\Debug\SocketServer.exe.config
+E:\工作项目\Sweet\点甜机器人\SocketServer\SocketServer\obj\Debug\View\MainWindow.g.cs
+E:\工作项目\Sweet\点甜机器人\SocketServer\SocketServer\obj\Debug\App.g.cs
+E:\工作项目\Sweet\点甜机器人\SocketServer\SocketServer\obj\Debug\SocketServer_MarkupCompile.cache
+E:\工作项目\Sweet\点甜机器人\SocketServer\SocketServer\obj\Debug\SocketServer_MarkupCompile.lref
+E:\工作项目\Sweet\点甜机器人\SocketServer\SocketServer\obj\Debug\View\MainWindow.baml
+E:\工作项目\Sweet\点甜机器人\SocketServer\SocketServer\obj\Debug\SocketServer.g.resources
+E:\工作项目\Sweet\点甜机器人\SocketServer\SocketServer\obj\Debug\SocketServer.Properties.Resources.resources
+E:\工作项目\Sweet\点甜机器人\SocketServer\SocketServer\obj\Debug\SocketServer.csproj.GenerateResource.Cache
+E:\工作项目\Sweet\点甜机器人\SocketServer\SocketServer\obj\Debug\SocketServer.exe
+E:\工作项目\Sweet\点甜机器人\SocketServer\SocketServer\obj\Debug\SocketServer.pdb
+E:\工作项目\Sweet\点甜机器人\SocketServer\SocketServer\bin\Debug\SocketServer.pdb
